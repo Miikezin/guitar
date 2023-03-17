@@ -1,0 +1,26 @@
+@media(max-width:470px){
+						
+
+.loja-img{display: grid;
+			width:100%;
+
+}
+
+.historia{
+}
+
+
+.titulo-texto{
+		text-align: initial;
+		margin:29 10 0;
+
+}
+
+.texto{padding: inherit;
+		
+
+}
+
+
+
+}
